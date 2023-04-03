@@ -1,7 +1,7 @@
 <?php
 session_start();
 //disallows any and all access to this page UNLESS you sign in
-include("public_html/connect.php");
+include("connect.php");
 
 
 
